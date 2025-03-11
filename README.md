@@ -1,28 +1,17 @@
-<style>
-  .image-grid {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    grid-gap: 10px;
-    margin-bottom: 20px;
-  }
-  .image-grid img {
-    width: 100%;
-    height: auto;
-    display: block;
-  }
-</style>
-
-
 # map-generator
 
-<div class="image-grid">
-  <img src="docs/1.png" alt="Map Generator Image 1">
-  <img src="docs/2.png" alt="Map Generator Image 2">
-  <img src="docs/3.png" alt="Map Generator Image 3">
-  <img src="docs/4.png" alt="Map Generator Image 4">
-  <img src="docs/5.png" alt="Map Generator Image 5">
-  <img src="docs/6.png" alt="Map Generator Image 6">
-</div>
+<table>
+  <tr>
+    <td><img src="docs/1.png" alt="Image 1" width="250"></td>
+    <td><img src="docs/2.png" alt="Image 2" width="250"></td>
+    <td><img src="docs/3.png" alt="Image 3" width="250"></td>
+  </tr>
+  <tr>
+    <td><img src="docs/4.png" alt="Image 4" width="250"></td>
+    <td><img src="docs/5.png" alt="Image 5" width="250"></td>
+    <td><img src="docs/6.png" alt="Image 6" width="250"></td>
+  </tr>
+</table>
 
 ## chunk-generator Component
 
