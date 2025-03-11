@@ -18,8 +18,7 @@ AFRAME.registerComponent('chunk-generator', {
     renderMode:       { type: 'string', default: 'mesh' },
     textureFilter:    { type: 'string', default: 'linear' },
     enablePhysics:    { type: 'boolean', default: false },
-    updateInterval:   { type: 'number', default: 100 },
-    chunkPoolSize:    { type: 'int', default: 0 }
+    updateInterval:   { type: 'number', default: 100 }
   },
 
   init() {

@@ -1,5 +1,3 @@
-# map-generator
-
 <style>
   .image-grid {
     display: grid;
@@ -13,6 +11,9 @@
     display: block;
   }
 </style>
+
+
+# map-generator
 
 <div class="image-grid">
   <img src="docs/1.png" alt="Map Generator Image 1">
