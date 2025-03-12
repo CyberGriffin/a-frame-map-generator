@@ -13,6 +13,10 @@
   </tr>
 </table>
 
+## Demo
+- Try it out! https://square-general-cowbell.glitch.me
+- Make your own! https://glitch.com/edit/#!/square-general-cowbell
+
 ## chunk-generator Component
 
 The `chunk-generator` component is an A-Frame component designed to generate terrain chunks dynamically. This component allows for the creation of large, procedurally generated terrains with various customizable parameters.
